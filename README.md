@@ -4,7 +4,7 @@ This repository contains my **learning projects, notebooks, and experiments** re
 
 ---
 
-## 🧠 About
+##  About
 
 I'm actively learning Data Science and AI – this repo is a place where I document my progress, try out ideas, and build small models using Python and tools like:
 
